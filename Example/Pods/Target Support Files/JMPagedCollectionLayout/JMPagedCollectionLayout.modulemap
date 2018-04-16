@@ -1,0 +1,6 @@
+framework module JMPagedCollectionLayout {
+  umbrella header "JMPagedCollectionLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

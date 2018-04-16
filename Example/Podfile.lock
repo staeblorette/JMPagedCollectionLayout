@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JMPagedCollectionLayout (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JMPagedCollectionLayout (from `../`)
+
+EXTERNAL SOURCES:
+  JMPagedCollectionLayout:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JMPagedCollectionLayout: 620c6d969c2f01458e69412b825105e960ecec09
+
+PODFILE CHECKSUM: b78f41832834732a3a3b009495a4fba5a2ff5177
+
+COCOAPODS: 1.3.1
